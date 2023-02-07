@@ -17,3 +17,4 @@ Jian Liu\**(teacher), **Chen Liang\****, and Jinan Xu. Knowledge-Based Systems, 
 - 5次学习优秀奖学金
 - 全国部分地区物理竞赛二等奖
 - 三好学生荣誉称号
+- 3次数学建模竞赛奖项
